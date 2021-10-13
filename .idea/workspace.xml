@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6575cbf1-7470-4023-93b4-e869d6fc0fd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app2/app/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/app/frankfurt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/app/request_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/app/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_developer/app_dev/backend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_developer/app_dev/it_team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_developer/app_dev/it_team_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_developer/app_dev/skill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/1_new_homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/bills_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/company_voting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/compute_bill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/consumption.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/count_votes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/electricity_bills.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/electricitybill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/fleet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/test_bill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/test_consumption.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/test_voting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/transportation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/users.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/votes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/app.py/voting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/class_app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects_curs/class_app/test.py" afterDir="false" />
+    <list default="true" id="6575cbf1-7470-4023-93b4-e869d6fc0fd5" name="Default Changelist" comment="py_projects">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fintech" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +48,51 @@
       <option name="presentableId" value="Default" />
       <updated>1617014194213</updated>
     </task>
+    <task id="LOCAL-00001" summary="py_projects">
+      <created>1617015483406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617015483406</updated>
+    </task>
+    <task id="LOCAL-00002" summary="py_projects">
+      <created>1617015617122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617015617122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="py_projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="py_projects" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1617203323635">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1617203323635" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1617015633062">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1617015633062" />
+    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617015446451">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1617015446451" />
   </component>
 </project>
